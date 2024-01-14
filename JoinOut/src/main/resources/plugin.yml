@@ -1,0 +1,4 @@
+name: JoinOut
+version: '${project.version}'
+main: org.example.code.joinout.JoinOut
+api-version: '1.20'
